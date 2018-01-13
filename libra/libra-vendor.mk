@@ -19,7 +19,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/libra/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/xiaomi/libra/proprietary/bin/cnd:system/bin/cnd \
     vendor/xiaomi/libra/proprietary/bin/cnss-daemon:system/bin/cnss-daemon \
-    vendor/xiaomi/libra/proprietary/bin/cnss_diag:system/bin/cnss_diag \
     vendor/xiaomi/libra/proprietary/bin/diag_mdlog:system/bin/diag_mdlog \
     vendor/xiaomi/libra/proprietary/bin/energy-awareness:system/bin/energy-awareness \
     vendor/xiaomi/libra/proprietary/bin/garden_app:system/bin/garden_app \
