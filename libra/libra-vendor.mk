@@ -40,7 +40,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/libra/proprietary/bin/port-bridge:system/bin/port-bridge \
     vendor/xiaomi/libra/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/xiaomi/libra/proprietary/bin/qseecomd:system/bin/qseecomd \
-    vendor/xiaomi/libra/proprietary/bin/radish:system/bin/radish \
     vendor/xiaomi/libra/proprietary/bin/rfs_access:system/bin/rfs_access \
     vendor/xiaomi/libra/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/xiaomi/libra/proprietary/bin/tftp_server:system/bin/tftp_server \
