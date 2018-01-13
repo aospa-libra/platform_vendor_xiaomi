@@ -25,7 +25,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/libra/proprietary/bin/energy-awareness:system/bin/energy-awareness \
     vendor/xiaomi/libra/proprietary/bin/ftmdaemon:system/bin/ftmdaemon \
     vendor/xiaomi/libra/proprietary/bin/garden_app:system/bin/garden_app \
-    vendor/xiaomi/libra/proprietary/bin/gpsone_daemon:system/bin/gpsone_daemon \
     vendor/xiaomi/libra/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/xiaomi/libra/proprietary/bin/ims_rtp_daemon:system/bin/ims_rtp_daemon \
     vendor/xiaomi/libra/proprietary/bin/imscmservice:system/bin/imscmservice \
