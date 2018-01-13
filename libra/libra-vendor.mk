@@ -21,11 +21,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/libra/proprietary/bin/cnss-daemon:system/bin/cnss-daemon \
     vendor/xiaomi/libra/proprietary/bin/cnss_diag:system/bin/cnss_diag \
     vendor/xiaomi/libra/proprietary/bin/diag_mdlog:system/bin/diag_mdlog \
-    vendor/xiaomi/libra/proprietary/bin/dun-server:system/bin/dun-server \
     vendor/xiaomi/libra/proprietary/bin/energy-awareness:system/bin/energy-awareness \
-    vendor/xiaomi/libra/proprietary/bin/ftmdaemon:system/bin/ftmdaemon \
     vendor/xiaomi/libra/proprietary/bin/garden_app:system/bin/garden_app \
-    vendor/xiaomi/libra/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/xiaomi/libra/proprietary/bin/ims_rtp_daemon:system/bin/ims_rtp_daemon \
     vendor/xiaomi/libra/proprietary/bin/imscmservice:system/bin/imscmservice \
     vendor/xiaomi/libra/proprietary/bin/imsdatadaemon:system/bin/imsdatadaemon \
@@ -83,7 +80,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/libra/proprietary/etc/firmware/venus.b04:system/etc/firmware/venus.b04 \
     vendor/xiaomi/libra/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
     vendor/xiaomi/libra/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
-    vendor/xiaomi/libra/proprietary/etc/ftm_test_config:system/etc/ftm_test_config \
     vendor/xiaomi/libra/proprietary/etc/modem/Diag.cfg:system/etc/modem/Diag.cfg \
     vendor/xiaomi/libra/proprietary/etc/permissions/cneapiclient.xml:system/etc/permissions/cneapiclient.xml \
     vendor/xiaomi/libra/proprietary/etc/permissions/com.qti.location.sdk.xml:system/etc/permissions/com.qti.location.sdk.xml \
